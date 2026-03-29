@@ -1,0 +1,9 @@
+pydantic
+instructor
+litellm
+pytesseract
+Pillow
+python-docx
+xlrd
+pypdfium2
+pytesseract
